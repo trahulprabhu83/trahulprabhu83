@@ -58,12 +58,7 @@ is this working?
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=trahulprabhu83&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
----
-
-
-<a href="https://wakatime.com/@trahulprabhu83">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=trahulprabhu83&langs_count=6&theme=dark&locale=en#gh-dark-mode-only" />
-</a>
+--
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
